@@ -81,6 +81,7 @@
       "id": "2",
       "name": "Marques Brownlee",
       "avatarURL": "https://raw.githubusercontent.com/keleyang/starmark-data/main/images/avatars/marques_brownlee.jpg",
+      "coverImageURL": "https://raw.githubusercontent.com/keleyang/starmark-data/main/images/covers/col3_cover.jpg",
       "title": "Tech Reviewer & YouTuber",
       "bio": "Known as MKBHD, Marques Brownlee produces high-quality tech reviews and has interviewed top industry leaders.",
       "links": [
@@ -93,6 +94,7 @@
       "id": "4",
       "name": "Jony Ive",
       "avatarURL": "https://raw.githubusercontent.com/keleyang/starmark-data/main/images/avatars/jony_ive.jpg",
+      "coverImageURL": "https://raw.githubusercontent.com/keleyang/starmark-data/main/images/covers/col4_cover.jpg",
       "title": "Former Chief Design Officer at Apple",
       "bio": "Sir Jonathan Ive is a British-American industrial and software designer, best known for his work at Apple.",
       "links": [

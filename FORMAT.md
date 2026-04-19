@@ -30,6 +30,7 @@
 | id | String | Yes | Unique ID, e.g. "1", "2" |
 | name | String | Yes | Creator name |
 | avatarURL | String | No | Avatar image URL, stored in `images/avatars/` |
+| coverImageURL | String | No | Cover image for small card, stored in `images/covers/` |
 | title | String | Yes | One-line title/tagline |
 | bio | String | Yes | Detailed introduction |
 | links | [Link] | Yes | Social media links array |

@@ -2,7 +2,7 @@
   "collections": [
     {
       "id": "col1",
-      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col1_cover.jpg",
+      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col1_cover.png",
       "title": "Must-Follow UX & Product Design Creators",
       "subtitle": "Editorial Pick",
       "editorial": "Great design doesn't happen by accident. These creators have shaped the way we think about user experience, accessibility, and product craft. Whether you're a seasoned designer or just getting started, their insights will change the way you build.",
@@ -10,7 +10,7 @@
         {
           "id": "1",
           "name": "Steve Krug",
-          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/steve_krug.jpg",
+          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/steve_krug.png",
           "title": "Usability Expert & Author of \"Don't Make Me Think\"",
           "bio": "Steve Krug is a usability consultant who has spent more than 25 years helping people understand how to design intuitive user experiences.",
           "links": [
@@ -21,7 +21,7 @@
         {
           "id": "3",
           "name": "Sara Soueidan",
-          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/sara_soueidan.jpg",
+          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/sara_soueidan.png",
           "title": "Inclusive Design Engineer",
           "bio": "An award-winning front-end engineer focused on accessibility and inclusive design, author, and speaker.",
           "links": [
@@ -32,7 +32,7 @@
         {
           "id": "4",
           "name": "Jony Ive",
-          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/jony_ive.jpg",
+          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/jony_ive.png",
           "title": "Former Chief Design Officer at Apple",
           "bio": "Sir Jonathan Ive is a British-American industrial and software designer, best known for his work at Apple.",
           "links": [
@@ -44,7 +44,7 @@
     },
     {
       "id": "col2",
-      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col2_cover.jpg",
+      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col2_cover.png",
       "title": "Top Tech Reviewers to Watch",
       "subtitle": "Trending",
       "editorial": "Stay ahead of the curve with the most trusted voices in tech. From deep-dive teardowns to first-look exclusives, these reviewers set the standard.",
@@ -52,7 +52,7 @@
         {
           "id": "2",
           "name": "Marques Brownlee",
-          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/marques_brownlee.jpg",
+          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/marques_brownlee.png",
           "title": "Tech Reviewer & YouTuber",
           "bio": "Known as MKBHD, Marques Brownlee produces high-quality tech reviews and has interviewed top industry leaders.",
           "links": [
@@ -64,7 +64,7 @@
         {
           "id": "5",
           "name": "Linus Sebastian",
-          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/linus_sebastian.jpg",
+          "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/linus_sebastian.png",
           "title": "Founder of Linus Tech Tips",
           "bio": "Linus Sebastian is the founder of Linus Media Group and host of Linus Tech Tips, one of the most popular tech channels on YouTube.",
           "links": [
@@ -80,8 +80,8 @@
     {
       "id": "2",
       "name": "Marques Brownlee",
-      "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/marques_brownlee.jpg",
-      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col3_cover.jpg",
+      "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/marques_brownlee.png",
+      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col3_cover.png",
       "title": "Tech Reviewer & YouTuber",
       "bio": "Known as MKBHD, Marques Brownlee produces high-quality tech reviews and has interviewed top industry leaders.",
       "links": [
@@ -93,8 +93,8 @@
     {
       "id": "4",
       "name": "Jony Ive",
-      "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/jony_ive.jpg",
-      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col4_cover.jpg",
+      "avatarURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/avatars/jony_ive.png",
+      "coverImageURL": "https://cdn.jsdelivr.net/gh/keleyang/starmark-data@main/images/covers/col4_cover.png",
       "title": "Former Chief Design Officer at Apple",
       "bio": "Sir Jonathan Ive is a British-American industrial and software designer, best known for his work at Apple.",
       "links": [

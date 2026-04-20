@@ -1,6 +1,6 @@
 {
   "id": "col2",
-  "coverImageURL": "",
+  "coverImageURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/covers/col2_cover.png",
   "title": "Top Tech Reviewers to Watch",
   "subtitle": "Trending",
   "editorial": "Stay ahead of the curve with the most trusted voices in tech. From deep-dive teardowns to first-look exclusives, these reviewers set the standard.",
@@ -8,7 +8,7 @@
     {
       "id": "2",
       "name": "Marques Brownlee",
-      "avatarURL": "",
+      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/marques_brownlee.png",
       "title": "Tech Reviewer & YouTuber",
       "bio": "Known as MKBHD, Marques Brownlee produces high-quality tech reviews and has interviewed top industry leaders.",
       "links": [
@@ -20,7 +20,7 @@
     {
       "id": "5",
       "name": "Linus Sebastian",
-      "avatarURL": "",
+      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/linus_sebastian.png",
       "title": "Founder of Linus Tech Tips",
       "bio": "Linus Sebastian is the founder of Linus Media Group and host of Linus Tech Tips, one of the most popular tech channels on YouTube.",
       "links": [

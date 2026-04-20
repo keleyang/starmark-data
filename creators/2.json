@@ -1,0 +1,12 @@
+{
+  "id": "2",
+  "name": "Marques Brownlee",
+  "avatarURL": "",
+  "title": "Tech Reviewer & YouTuber",
+  "bio": "Known as MKBHD, Marques Brownlee produces high-quality tech reviews and has interviewed top industry leaders.",
+  "links": [
+    {"platform": "youtube", "url": "https://youtube.com/@mkbhd"},
+    {"platform": "twitter", "url": "https://x.com/MKBHD"}
+  ],
+  "previewImageURLs": []
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "layout": [
+    {"type": "collection", "refID": "col1", "cardVersion": 1},
+    {"type": "creator",    "refID": "2",    "cardVersion": 1},
+    {"type": "creator",    "refID": "4",    "cardVersion": 1},
+    {"type": "collection", "refID": "col2", "cardVersion": 1}
+  ]
+}

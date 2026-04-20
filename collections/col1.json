@@ -1,0 +1,42 @@
+{
+  "id": "col1",
+  "coverImageURL": "",
+  "title": "Must-Follow UX & Product Design Creators",
+  "subtitle": "Editorial Pick",
+  "editorial": "Great design doesn't happen by accident. These creators have shaped the way we think about user experience, accessibility, and product craft. Whether you're a seasoned designer or just getting started, their insights will change the way you build.",
+  "creators": [
+    {
+      "id": "1",
+      "name": "Steve Krug",
+      "avatarURL": "",
+      "title": "Usability Expert & Author of \"Don't Make Me Think\"",
+      "bio": "Steve Krug is a usability consultant who has spent more than 25 years helping people understand how to design intuitive user experiences.",
+      "links": [
+        {"platform": "twitter", "url": "https://x.com/skrug"}
+      ],
+      "previewImageURLs": []
+    },
+    {
+      "id": "3",
+      "name": "Sara Soueidan",
+      "avatarURL": "",
+      "title": "Inclusive Design Engineer",
+      "bio": "An award-winning front-end engineer focused on accessibility and inclusive design, author, and speaker.",
+      "links": [
+        {"platform": "twitter", "url": "https://x.com/SaraSoueidan"}
+      ],
+      "previewImageURLs": []
+    },
+    {
+      "id": "4",
+      "name": "Jony Ive",
+      "avatarURL": "",
+      "title": "Former Chief Design Officer at Apple",
+      "bio": "Sir Jonathan Ive is a British-American industrial and software designer, best known for his work at Apple.",
+      "links": [
+        {"platform": "instagram", "url": "https://instagram.com/jonyive"}
+      ],
+      "previewImageURLs": []
+    }
+  ]
+}

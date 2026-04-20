@@ -1,6 +1,6 @@
 {
   "id": "col1",
-  "coverImageURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/covers/col1_cover.png",
+  "coverImageURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/covers/col1_cover.webp",
   "title": "Must-Follow UX & Product Design Creators",
   "subtitle": "Editorial Pick",
   "editorial": "Great design doesn't happen by accident. These creators have shaped the way we think about user experience, accessibility, and product craft. Whether you're a seasoned designer or just getting started, their insights will change the way you build.",
@@ -8,7 +8,7 @@
     {
       "id": "1",
       "name": "Steve Krug",
-      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/steve_krug.png",
+      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/steve_krug.webp",
       "title": "Usability Expert & Author of \"Don't Make Me Think\"",
       "bio": "Steve Krug is a usability consultant who has spent more than 25 years helping people understand how to design intuitive user experiences.",
       "links": [
@@ -19,7 +19,7 @@
     {
       "id": "3",
       "name": "Sara Soueidan",
-      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/sara_soueidan.png",
+      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/sara_soueidan.webp",
       "title": "Inclusive Design Engineer",
       "bio": "An award-winning front-end engineer focused on accessibility and inclusive design, author, and speaker.",
       "links": [
@@ -30,7 +30,7 @@
     {
       "id": "4",
       "name": "Jony Ive",
-      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/jony_ive.png",
+      "avatarURL": "https://star-parser.wsyk0427a.workers.dev/recommend/images/avatars/jony_ive.webp",
       "title": "Former Chief Design Officer at Apple",
       "bio": "Sir Jonathan Ive is a British-American industrial and software designer, best known for his work at Apple.",
       "links": [
